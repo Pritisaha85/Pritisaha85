@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pritisaha85
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning  c++ and looking forward to learn abut web development 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Pritisaha
+- 👀 I’m interested in 
+- 🌱 I’m currently learning  java and  web development 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
